@@ -1,6 +1,8 @@
-<<<<<<< HEAD
 # End-to-end-Medical-Chatbot-Generative-AI
 
+## Screenshots
+![App Screenshot](assets/img1.png)
+![App Screenshot](assets/img2.png)
 
 # How to run?
 ### STEPS:
