@@ -10,7 +10,7 @@
 Clone the repository
 
 ```bash
-Project repo: https://github.com/
+Project repo: https://github.com/CodewithShaily/MediSync
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
