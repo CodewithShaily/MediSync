@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # End-to-end-Medical-Chatbot-Generative-AI
 
 
@@ -130,3 +131,7 @@ open up localhost:
    - OPENAI_API_KEY
 
     
+=======
+# MediSync
+An AI chatbot which solves your minor medical queries.
+>>>>>>> 509b3dcde30408a8f5f18baa44edc833df1549de
